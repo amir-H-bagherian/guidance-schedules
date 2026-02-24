@@ -5,7 +5,7 @@ It loads a Stable Diffusion v1.5 model, builds different CFG schedules (constant
 This repo is intended as a reproducible playground for experimenting with guidance schedules and deterministic sampling.
 
 <p align="center">
-  <a href="examples/results/preview.png">
+  <a href="./results/output.png">
     <img src="./results/output.png" alt="Guidance schedule example" width="900"/>
   </a>
 </p>
