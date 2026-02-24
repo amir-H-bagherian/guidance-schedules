@@ -1,0 +1,9 @@
+# Core
+torch
+diffusers>=0.10.0
+transformers>=4.30.0
+accelerate
+safetensors
+numpy
+Pillow
+matplotlib
